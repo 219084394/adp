@@ -14,18 +14,18 @@ import java.time.Duration;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class QuestionFourTest {
+class VerificationTest {
 
-    private QuestionFour Person1;
-    private QuestionFour Person2;
-    private QuestionFour Person3;
-    private QuestionFour Person4;
+    private Verification Person1;
+    private Verification Person2;
+    private Verification Person3;
+    private Verification Person4;
 
     @BeforeEach
         void setUp() {
-            Person1 = new QuestionFour();
-            Person2 = new QuestionFour();
-            Person3 = new QuestionFour();
+            Person1 = new Verification();
+            Person2 = new Verification();
+            Person3 = new Verification();
             Person4 = Person3;
         }
 
