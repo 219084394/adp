@@ -7,7 +7,8 @@ public class AnickaSchouw217284183 {
 
     private String equal,identify,fail, timeout,disable;
 
-    public String getEqual() {
+    public String getEqual()
+    {
         return equal;
     }
 
