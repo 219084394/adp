@@ -1,5 +1,8 @@
 package za.ac.cput.adp;
-
+/*
+ *@Author: ANICKA SCHOUW 217284183
+ * Assignment 1 2021 Applications Develpment Practice 3
+ */
 public class AnickaSchouw217284183 {
 
     private String equal,identify,fail, timeout,disable;
