@@ -1,6 +1,11 @@
 package za.ac.cput.adp;
-
+/*
+ *@Author: Anicka Schouw 217284183
+ * Assignment 1 2021 ADP3
+ */
 class ASchouw {
+
+    //Anicka Schouw 217284183
 
     private String equal,identify,fail, timeout,disable;
 
