@@ -1,5 +1,7 @@
 package za.ac.cput.adp;
-
+/*
+*author: keenan Solomons 219264228
+*/
 public class Movies {
     private String type;
     private String rating;
