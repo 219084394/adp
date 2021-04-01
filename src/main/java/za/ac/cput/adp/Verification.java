@@ -1,11 +1,11 @@
-package za.ac.cput.adp;
+fpackage za.ac.cput.adp;
 
 /** Wajedien Samuels - 216287820
  *
  * This is a verification program
  */
 
-public class QuestionFour {
+public class Verification {
 
     private String Firstname, Lastname;
     private int idNumber;
@@ -41,7 +41,7 @@ public class QuestionFour {
 
     @Override
     public String toString() {
-        return "QuestionFour{" +
+        return "Verification{" +
                 "Firstname='" + Firstname + '\'' +
                 ", Lastname='" + Lastname + '\'' +
                 ", idNumber=" + idNumber +
