@@ -3,7 +3,7 @@ package za.ac.cput.adp;
  *@Author: ANICKA SCHOUW 217284183
  * Assignment 1 2021 ADP3
  */
-public class QuestionFour {
+public class Aschouw {
 
     private String equal,identify,fail, timeout,disable;
 

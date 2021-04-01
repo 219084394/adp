@@ -12,7 +12,7 @@ import java.util.concurrent.TimeUnit;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class QuestionFourTest {
+class AschouwTest {
 
     private String equal1;
     private String equal2;
@@ -20,12 +20,12 @@ class QuestionFourTest {
     private String identify1;
     private String identify2;
     private String identify3;
-    private QuestionFour fail1;
-    private QuestionFour fail2;
-    private QuestionFour fail4;
+    private Aschouw fail1;
+    private Aschouw fail2;
+    private Aschouw fail4;
     private String name;
-    private QuestionFour disable;
-    private QuestionFour disable1;
+    private Aschouw disable;
+    private Aschouw disable1;
 
     @BeforeEach
     void setUp() {
@@ -35,8 +35,8 @@ class QuestionFourTest {
         identify1 = "100";
         identify2 = "200";
         identify3 = identify1;
-        fail1 = new QuestionFour();
-        fail2 = new QuestionFour();
+        fail1 = new Aschouw();
+        fail2 = new Aschouw();
         fail4 = fail1;
         disable = disable1;
     }
