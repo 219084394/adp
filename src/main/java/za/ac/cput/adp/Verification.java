@@ -41,7 +41,7 @@ public class Verification {
 
     @Override
     public String toString() {
-        return "QuestionFour{" +
+        return "Verification{" +
                 "Firstname='" + Firstname + '\'' +
                 ", Lastname='" + Lastname + '\'' +
                 ", idNumber=" + idNumber +
